@@ -1,6 +1,8 @@
 # OnFeedDotMe (v 1.0) -> Love -> 1
 Creado por [José Manuel Suárez Tocino](https://josemanuelsuareztocino-1998.github.io/josemanuelsuareztocino-1998/)
 
+**[Volver atrás a "Love"](https://onfeedme.github.io/Love/)**
+
 Actualizado por última vez el 20 de abril de 2025.
 
 ## Sponsored by
